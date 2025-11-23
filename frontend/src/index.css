@@ -1,0 +1,6 @@
+body { font-family: Arial; background:#0f172a; color:white; padding:40px; }
+.card { background:#1e293b; padding:20px; border-radius:8px; max-width:500px; margin:auto; }
+.input { width:100%; padding:10px; margin-bottom:10px; border-radius:6px; border:none; }
+.btn { padding:10px 14px; background:#3b82f6; color:white; border:none; border-radius:6px; cursor:pointer; }
+.error { background:#b91c1c; padding:10px; border-radius:6px; margin-top:10px; }
+.result { background:#334155; padding:10px; border-radius:6px; margin-top:10px; }
